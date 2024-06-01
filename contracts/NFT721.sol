@@ -8,7 +8,7 @@ import "@openzeppelin/contracts@5.0.2/access/Ownable.sol";
 
 contract TunaDriverNFT is ERC721, Ownable {
     constructor(address initialOwner)
-        ERC721("Tuna Driver NFT", "TUNAN")
+        ERC721("Olym3 NFT Collection", "OLYM3NFT")
         Ownable(initialOwner)
     {}
 
