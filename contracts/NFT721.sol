@@ -1,4 +1,5 @@
-#NFT Collection
+//NFT Collection on Baobap: 
+
 // SPDX-License-Identifier: MIT
 // Compatible with OpenZeppelin Contracts ^5.0.0
 pragma solidity ^0.8.20;
@@ -6,7 +7,7 @@ pragma solidity ^0.8.20;
 import "@openzeppelin/contracts@5.0.2/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts@5.0.2/access/Ownable.sol";
 
-contract TunaDriverNFT is ERC721, Ownable {
+contract Olym3NFT is ERC721, Ownable {
     constructor(address initialOwner)
         ERC721("Olym3 NFT Collection", "OLYM3NFT")
         Ownable(initialOwner)
