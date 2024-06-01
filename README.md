@@ -1,5 +1,5 @@
 # non-custodial_nft_staking_platform
-Non-custodial NFT Staking Platform on EVM
+Non-custodial NFT Staking Platform on Klaytn Baobap Testnet
 
 Token Reward: 0x8F174e51714108B72B789C86e8d55eafe71c0B4F
 
